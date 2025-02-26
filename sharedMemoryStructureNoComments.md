@@ -92,13 +92,13 @@ my_trading_system/
 |   │   ├── trading_calculations.py
 |   │   ├── feature_engineering.cpp
 |   │   └── feature_engineering.py
-|   ├── tests/
-|   │   ├── test_data_manager.cpp
-|   │   ├── test_order_manager.cpp
-|   │   ├── test_strategies.cpp
-|   │   ├── test_risk_manager.cpp
-|   │   ├── test_account_manager.cpp
-|   │   └── test_data_manager.py
+|   └── tests/
+|      ├── test_data_manager.cpp
+|      ├── test_order_manager.cpp
+|      ├── test_strategies.cpp
+|      ├── test_risk_manager.cpp
+|      ├── test_account_manager.cpp
+|      └── test_data_manager.py
 ├── main.cpp
 ├── main.py
 └── README.md
